@@ -1,5 +1,5 @@
 const lessons = [
-  { name: "الدرس الأول (تجريبي)", file: "lesson1.html" },
+  { name: "مذكرة المجد علوم  الصف الرابع ترم اول 2026", file: "lesson1.html" },
 ];
 
 window.onload = () => {
